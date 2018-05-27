@@ -22,8 +22,8 @@ In order to select background pixels, press 'Ctrl' and click+move over the backg
 
 # Result    
 Input images:    
-![Input1](https://raw.githubusercontent.com/2vin/background-changing/master/data/in1.jpg)
-![Input2](https://raw.githubusercontent.com/2vin/background-changing/master/data/in2.jpg =626x417 )
+![Input1](https://raw.githubusercontent.com/2vin/background-changing/master/data/in1.jpg)   
+<a href="Input2"><img src="https://raw.githubusercontent.com/2vin/background-changing/master/data/in2.jpg" align="left" height="417" width="626" ></a>
 
 Result Image:    
 ![Result](https://raw.githubusercontent.com/2vin/background-changing/master/data/Result.jpg)
