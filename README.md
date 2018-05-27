@@ -27,4 +27,4 @@ Input images:
 
 
 Result Image:    
-<a href="Result"><img src="https://raw.githubusercontent.com/2vin/background-changing/master/data/Result.jpg" align="right" height="208" width="313" ></a>
+<a href="Result"><img src="https://raw.githubusercontent.com/2vin/background-changing/master/data/Result.jpg" align="left" height="208" width="313" ></a>
