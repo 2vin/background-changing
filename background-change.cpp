@@ -358,10 +358,7 @@ int main( int argc, char** argv )
         {
         	myFrame = origFrame.clone();
         	resize(myMask,myMask, origFrame.size());
-        	imshow("Frame", myFrame);
-	        imshow("Mask", myMask);
 	        Mat temp = myFrame.clone();
-	        //refine(myFrame, myMask);
 	        Mat White = Mat(myFrame.rows, myFrame.cols, CV_8UC3, Scalar(255,255,255));
 	        myMask.convertTo(myMask, CV_8UC1);
 	        Mat smooth;
